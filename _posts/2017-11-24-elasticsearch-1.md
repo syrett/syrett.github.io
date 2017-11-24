@@ -16,7 +16,7 @@ Elasticsearch的底层是开源库Lucence, Elasticsearch提供RestAPI, 方便使
   前提条件:
       1. java8: 在这不细说,例如ubuntu环境下可以直接:apt-get install default-jre
       
-  安装Elasticsearch:[[https://www.elastic.co/guide/en/elasticsearch/reference/current/zip-targz.html][官方文档]]
+  安装Elasticsearch:[官方文档](https://www.elastic.co/guide/en/elasticsearch/reference/current/zip-targz.html)
       
       $ wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.6.4.zip
       $ unzip elasticsearch-5.6.4.zip
@@ -45,7 +45,7 @@ Elasticsearch的底层是开源库Lucence, Elasticsearch提供RestAPI, 方便使
  
 二、安装ik中文分词:
 
-  elasticsearch自带的中文索引不太好用，分词不准确. 在网上找了个ik,测试了下分词很准确,[[https://github.com/medcl/elasticsearch-analysis-ik][ik 分词器的github地址]]
+  elasticsearch自带的中文索引不太好用，分词不准确. 在网上找了个ik,测试了下分词很准确,[ik 分词器的github地址](https://github.com/medcl/elasticsearch-analysis-ik)
   
   ik文档里已经有了安装方法，方法一:
   
