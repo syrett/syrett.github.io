@@ -158,5 +158,7 @@ Elasticsearch的底层是开源库Lucence, Elasticsearch提供RestAPI, 方便使
 三、参考
  
   [全文搜索引擎 Elasticsearch 入门教程](http://www.ruanyifeng.com/blog/2017/08/elasticsearch.html)
+  
   [github: medcl/elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik)
+  
   [Elasticsearch: 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
